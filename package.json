@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite --host",
-    "build": "vite build --base=/project-vegetables24/",
+    "build": "vite build --base=/html_css_104_cel3ntano/",
     "preview": "vite preview"
   },
   "devDependencies": {
